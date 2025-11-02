@@ -11,3 +11,5 @@
 - **Nombre:** Juan José Monsalve Hernández  
 - **Cédula:** 1-017-922-816  
 - **Programa:** Ingeniería de sistemas
+#
+**Link Video entrega 02 - preprocesado:** https://youtu.be/1QaR0PrggLU
